@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--heading-->
+    <h5>Actor is Kran Abbavaram</h5>
+    <!--paragraph-->
+    <p>He was a actor and writer in telugu industry<br>he was married<br>married Rahasya Gorak</p>
+    <!--preserve formatting tags-->
+    <pre>his films are more content background</pre>
+    <!--unordered list-->
+    <uo>
+        <li>Rajavaru Ranivaru</li>
+        <li>KA</li>
+    </uo>
+    <!--orderedList-->
+    <ol>
+        <li>2019: Rajavaru Ranivaru</li>
+        <li>2021: SR Kalayanamandapam</li>
+    </ol>
+</body>
+</html>
