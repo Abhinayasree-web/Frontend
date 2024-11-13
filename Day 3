@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <!--heading tags-->
+        <h1>heading1</h1>
+        <h2>heading2</h2>
+        <h3>heading3</h3>
+        <h4>heading4</h4>
+        <h5>heading5</h5>
+        <h6>heading6</h6>
+        <!--paragraph tags-->
+        <p>this is a paragraph</p>
+        <!--break tag-->
+        <br>this is a sentence to break</br>
+        <!--center tag-->
+        <center>this is center</center>
+        <!--horizontal rule tags-->
+        <hr> this is horizontal tule</hr>
+        <!--preserve formatting tags-->
+        <pre>this is preserve formatting sentence.this is a my third class of web designing.in this class  
+            we will go through the vs code and git hub also.</pre>
+            <!--unorderedlist-->
+        <ul>
+            <li>
+                this is unordered list of list item
+            </li>
+        </ul>
+        <!--ordered list-->
+        <ol>
+            <li>
+                this is the ordered list in list item.
+            </li>
+        </ol>
+        <!--unordered list-->
+        <ul>
+            <li>this is a one mango</li>
+            <li>this is a another fruit</li>
+        </ul>
+        <!--orderedlist-->
+        <ol>
+            <li>this is bag</li>
+            <li>this is bottle</li>
+        </ol>
+</body>
+</html>
