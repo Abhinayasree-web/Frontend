@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--fprmatting tags-->
+    <p>this is <em>india</em> country </p>
+    <p>Abhinaya completed the <strong> Graduation in EEE</strong> in svec,in tirupati</p>
+    <p>Abhinaya come form <u>Andhrapradesh</u> from rayalasema district</p>
+    <p>Sagar  has done the concepts on <ins>html,css,javascrpipt,and java</ins> these are full stack concepts </p>
+    <p>priyankaa has a intrested more on<del>core subjects</del> netflix also</p>
+    <p>Abhinaya,sagar and bharath are<mark> good friends</mark> from last of b.tech </p>
+    <p>this is institute name has <strike>codegnan in hyderabad</strike> also in banglore,vijayawada</p>
+    <p>the hyderabad has a so many <cite>beautiful places </cite> for visit</p>
+    <p>in india there are so many <blockquote>traditional </blockquote>ways </p>
+</body>
+</html>
