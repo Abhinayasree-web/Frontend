@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--image tags-->
+    <img src="https://images.unsplash.com/photo-1731432249483-2418feb8065e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D" alt="">
+    <img src="a.jpg" width="100px"  height="100px" alt="">
+
+    <!--ordered and unoreded list-->
+    <ul type = "circle">
+        <li>abhi</li>
+        <li>abhi</li>
+        <li>abhi</li>
+    </ul>
+    <ol type="I">
+        <li>sagar</li>
+        <li>sagar</li>
+        <li>sagar</li>
+    </ol>
+    <ul type="square">
+        <li>rud</li>
+        <li>rud</li>
+    </ul>
+    <ol type="i">
+        <li>baby</li>
+        <li>baby</li>
+    </ol>
+    <ul type="disc">
+        <li>akki</li>
+        <li>akki</li>
+    </ul>
+    <ol type="A">
+        <li>ashok</li>
+        <li>ashok</li>
+    </ol>
+    <ol type="a">
+        <li>subbu</li>
+        <li>subbu</li>
+    </ol>
+    <ol>
+        <li>hannu</li>
+        <li>hannu</li>
+    </ol>
+
+    <dl>
+        <dt>term</dt>
+        <dd>definition</dd>
+        <dt>term</dt>
+        <dd>definition</dd>
+        <dt>term</dt>
+        <dd>definition</dd>
+    </dl>
+    <!--tables-->
+    <table border="1">
+<tr>
+    <td rowspan="2">
+        Abhinaya
+        Abhinaya
+        Abhinaya
+    </td>
+</tr>
+<tr>
+    <td colspan="2">
+        Abhinaya
+        Abhinaya
+        Abhinaya
+    </td>
+</tr>
+<tr>
+    <td>
+        Abhinaya
+        Abhinaya
+        Abhinaya
+    </td>
+</tr>
+     </table >
+
+     <table border="1">
+        <tr>
+          <td colspan="2">Abhi</td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+
+        </tr>
+        <tr>
+          <td rowspan="2">Abhi</td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+
+        </tr>
+        <tr>
+          <td>Abhi</td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+
+        </tr>
+        
+     </table>
+
+    </body>
+    </html>
