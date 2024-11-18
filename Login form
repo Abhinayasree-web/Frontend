@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h4>Login Page</h4>
+    <form actions="">
+    <label for="Username">UserName</label>
+    <input type="text "id="Username" placeholder="Enter your name here">
+    
+    <lable for="password">Password</lable>
+    <input type="text" id="pasword" placeholder="Enter your password" ><br></br>
+
+    </form>
+    <a href="signin.html">Existing User? Login here</a>
+</body>
+</html>
