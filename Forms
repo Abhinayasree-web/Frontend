@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--forms-->
+    <form actions="">
+        <!--text-->
+        <lable for="Text">Text</lable>
+        <input type="text" id="Text" placeholder="enter your Text"><br></br>
+
+        <!--email-->
+       <label for="email">Email</label>
+       <input type="email" id="Email" placeholder="enter your email"><br></br>
+
+       <!--password-->
+       <lable for="Password">Password</lable>
+       <input type="password" id="Password" placeholder="enter your Password"><br></br>
+       
+
+       <!--Date-->
+       <lable for="Date">Date</lable>
+       <input type="date" id="date" placeholder="enter your date"><br></br>
+
+
+       <!--color-->
+       <lable for="color">color</lable>
+       <input type="color" id="color" placeholder="enter your color"><br></br>
+
+       <!--number-->
+       <lable for="number">number</lable>
+       <input type="number" id="number" placeholder="enter your number"><br></br>
+
+       <!--Subscribe-->
+       <lable for="Subscribe">Subscribe</lable>
+       <input type="checkbox" id="Subscribe" name="Subscribe"><br></br>
+
+       <!--File-->
+       <lable for="file">File</lable>
+       <input type="file" id="file" name="file"><br></br>
+
+       <!--Range-->
+       <lable for="range">Range</lable>
+       <input type="range" id="range" name="range"><br></br>
+       
+       <!--Website-->
+       <lable for="website">Website</lable>
+       <input type="website" id="website" name="website"><br></br>
+
+       <!--comments-->
+       <lable for="comments">Comments</lable>
+       <textarea id="comments" name="comments" rows="10" cols="10"></textarea><br></br>
+
+       <!--Gender-->
+       <label>Gender:</label><br></br>
+       <lable for="male">Male</lable>
+       <input type="radio" id="male" name="gender" value="male"><br></br>
+
+    
+       <lable for="female">FeMale</lable>
+       <input type="radio" id="female" name="gender" value="female"><br></br>
+
+       
+    </form>
+</body>
+</html>
