@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>heading page</h1>
+    <form actions="">
+        <label for="Username">UserName</label>
+        <input type="text" id="UserName" placeholder=enter your name here>
+        
+
+        <lable for="Email">Email</lable>
+        <input type="text" id="Email"><br></br>
+
+        <label for="Password">Password</label>
+        <input type="text" id="pasword" placeholder="enter your password "
+
+        <a href="login.html"> Existing User? Login here</a>
+    </form>
+
+
+</body>
+</html>
+
