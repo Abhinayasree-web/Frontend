@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--image-->
+    <img src="https://images.unsplash.com/photo-1731877818770-820faabe2d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8" width="100px" height="100px" alt=""></img>
+
+    <!--audio tag-->
+    <audio src="" controls></audio>
+
+    <!--video tag-->
+    <video src="https://videos.pexels.com/video-files/14697192/14697192-hd_1080_1620_30fps.mp4"  width="100px" height="100px" controls autoplay loop></video>
+
+    <!--svg tag-->
+    <svg width="300"  height="200">
+        <circle cx="150" cy="100" r="80" fill="blue"/>
+    </svg>
+
+    <!--Embed tag-->
+    <embed src="RUDRAPU ABHINAYA SREE.pdf.pdf" type="application/pdf">
+
+        <!--object tag-->
+        <object data="RUDRAPU ABHINAYA SREE.pdf.pdf" type="application/pdf" width="100" height="100"></object>
+
+        <!--iframe-->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-Qp8PoiWM4c?si=HA0rr50-IrOVQl5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+</body>
+</html>
