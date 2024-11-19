@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--canvas tag-->
+    <canvas id="myCanvas" width="1000" height="100"  style="border:1px solid #245e51bd;"> </canvas> <br>
+
+    <!--svg tags-->
+    <svg width="200" height="500">
+        <circle cx="100" cy="400" r="50" fill="pink"></circle> 
+    </svg><br>
+
+    <svg width="300" height="300">
+        <circle cx="150" cy="200" r="60" fill="blue"></circle>
+    </svg><br>
+
+    <svg width="300" height="300">
+        <circle cx="150" cy="200" r="60" fill="black"></circle>
+    </svg><br>
+
+    <!--embed tags-->
+    <embed src="RUDRAPU ABHINAYA SREE.pdf.pdf" type="Application/pdf"><br>
+
+        <!--object tags-->
+        <object data="RUDRAPU ABHINAYA SREE.pdf.pdf" type="Application/pdf"></object><br>
+        <object data="s.pdf" type="Application/pdf">This type is not supported</object><br>
+
+        <embed src="RUDRAPU ABHINAYA SREE.pdf.pdf" type="Application/pdf"><br>
+            <object data="RUDRAPU ABHINAYA SREE.pdf.pdf" type="Application/pdf"></object><br>
+            <object data="s.pdf" type="Application/pdf">This type is not supported</object><br>
+
+            <embed src="RUDRAPU ABHINAYA SREE.pdf.pdf" type="Application/pdf"><br>
+                <object data="RUDRAPU ABHINAYA SREE.pdf.pdf" type="Application/pdf"></object><br>
+                <object data="s.pdf" type="Application/pdf">This type is not supported</object><br>
+                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/8YJicgj8n9E?si=pOwX1tI0S3Hnofbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/2iYDPMIbTFo?si=sVsR3a4GY6Xdx5uP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/qiQsDkUHibs?si=UkIkE_zoR4f_x-SR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+            </body>
+</html>
