@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--class selector internal css-->
+    <style>
+        .Abhinayasree{
+            background-color:blue;
+        }
+    </style>
+
+    <!--id selector internal css-->
+    <style>
+         #Rudrapu {
+            color:beige;
+            width:"150px";
+         }
+    </style>
+    
+    <!--universal selector internal css-->
+    <style>
+        * {
+            Height:"200px";
+            color:green;
+
+        }
+    </style>
+
+    <!-- descendent selectorinternal css-->
+    <style>
+        div p {
+            color:yellow;
+        }
+    </style>
+
+    <!--child selector child css-->
+    <style>
+        ul>ui{
+            background-color: gray;
+        }
+    </style>
+
+    <!--attribute selector internal css-->
+    <style>
+        input[type="text"] {
+            color:cadetblue;
+        }
+
+        input[type="text"] {
+            color:cadetblue;
+        }
+
+
+    </style>
+
+    <!--grouping selector internal css-->
+    <style>
+        h1,h2,h3 {
+            color:darkmagenta;
+        }
+    </style>
+    
+
+    <!--external css link-->
+    <link rel="stylesheet" href="typeofelements.css">
+</head>
+<body>
+    <!--style-->
+    <p style="color:red;">kummari bhavani sagar</p>
+
+    <!--class selector inline--> 
+    <div>
+    <hl class="Abhinayasree">this is abhinayasree</hl>
+    </div>
+
+    <!--id selector inline-->
+    <div>
+    <h2 id="Rudrapu">This is Rudrapu </h2>
+    </div>
+
+    <!--universal selector inline-->
+    <div>
+    <p> I am a friend of  Sagar</p>
+    <p> I am a friend of  Sagar</p>
+    </div>  
+
+    <!--descendant selector inline-->
+    <div>
+    <p>This is a descendent selector</p>
+    <p>This is a descendent selector</p>
+
+    </div>
+
+    <!--child selector inline-->
+    <div>
+    <ul>
+        <ui>this is winter</ui><br>
+        <ui>this is summer</ui><br>
+    </ul>
+    </div>
+    <!--Attribute selector inline-->
+    <div>
+    <input type="text" placeholder="enter your name"><br>
+    <input type="text" placeholder="enter your college name"><br>
+
+    </div>
+
+    <!--grouping selector inline css-->
+    <div>
+        <h1>this is a heading</h1>
+        <h2>this is a heading</h2>
+        <h3>this is a heading</h3>
+    </div>
+</body>
+</html>
