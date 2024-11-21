@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--internal css -->
+
+    <Style>
+        h1{
+            color:brown !important;
+        }
+    
+      .name{
+        color:aqua;
+    }
+
+    #unique{
+        color:green;
+    }
+    </Style>
+
+
+</head>
+<body>
+    <!--heading,class and id-->
+    <h1 class="name" id="unique">Abhinayasree</h1>
+</body>
+</html>
