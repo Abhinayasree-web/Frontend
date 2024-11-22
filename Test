@@ -1,0 +1,169 @@
+<!--1 answer-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Login page-->
+    <h1>Login page</h1>
+    <!--form page-->
+    <form actions="">
+        <!--username-->
+        <label for="Username">UserName</label>
+        <input type="text" id="UserName" placeholder=enter your name here><br><br>
+        
+        <!--password-->
+        <label for="Password">Password</label>
+        <input type="text" id="pasword" placeholder="enter your password" ><br><br>
+
+        <!--button-->
+        <button>submit</button>
+</body>
+</html>
+
+
+<!--2 answer-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Register Form</h3>
+    
+    <form action="/submit" method="POST">
+        
+        <!-- name Input -->
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <!-- Email Input  -->
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" required>
+        <small>Please enter a valid email address.</small><br><br>
+
+        <!-- Password Input -->
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <!-- Date Picker -->
+        <label for="birthdate">Date of Birth:</label>
+        <input type="date" id="birthdate" name="birthdate" required><br><br>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit</button>
+        
+    </form>
+</body>
+</html>
+
+
+<!--3 answer-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--table-->
+    <table border="1">
+        <!--table row-->
+        <tr>
+          <th><b>Header 1</b></th>
+          <th>Header 2</th>
+          <th>Header 3</th>
+          <th>Header 4</th>
+        </tr>
+        <!--table row-->
+        <tr>
+          <td><b>Abhi</b></td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+        </tr>
+        <!--table row-->
+        <tr>
+          <td><b>Abhi</b></td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+          <td>Abhi</td>
+        </tr>
+      </table>
+      
+</body>
+</html>
+
+
+<!--4 answer-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Web Page</h1>
+    <!--video tag-->
+    <video src="https://videos.pexels.com/video-files/14697192/14697192-hd_1080_1620_30fps.mp4"  width="100px" height="100px" controls autoplay loop></video>
+
+   </body>
+</html>
+
+
+
+
+<!--5 answer-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    
+</head>
+<body>
+
+    <div>
+        <!-- Links with images, set to open in a new tab -->
+        <a href="https://images.unsplash.com/photo-1731877818770-820faabe2d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8" " target="_blank">
+            <img src="https://images.unsplash.com/photo-1731877818770-820faabe2d4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8" " alt="Image 1">
+        </a>
+        <a href="https://images.unsplash.com/photo-1718046254692-543196d7cba6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+            <img src="https://images.unsplash.com/photo-1718046254692-543196d7cba6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D" alt="Image 2">
+        </a>
+        <a href="https://plus.unsplash.com/premium_photo-1723733591611-79c5bbfc87ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+            <img src="https://plus.unsplash.com/premium_photo-1723733591611-79c5bbfc87ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D" alt="Image 3">
+        </a>
+    </div>
+
+</body>
+</html>
+
+
+<!--6 answer-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <select>
+        <option value="" selected>Select One</option>
+        <option value="green">green</option>
+        <option value="blue">Blue</option>
+        <option value="pink">Pink</option>
+      </select>
+</body>
+</html>
