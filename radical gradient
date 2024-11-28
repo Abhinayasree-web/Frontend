@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            width:100px;
+            height:100px;
+            color:coral;
+            background-color: hotpink;
+            padding:100px;
+            margin:100px;
+            font-size:20px;
+        }
+        h1{
+            background:radical-gradient(circle,red,blue);
+        }
+    </style>
+</head>
+<body>
+    <h1>This is the Abhinayasre</h1>
+</body>
+</html>
